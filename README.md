@@ -1,6 +1,6 @@
 ### Hey, I'm Winner 👋🏽 
 
-I'm a developer based in Canada, and I'm a final year student in computer sciences. 
+I'm a final year student in computer sciences in Canada. 
 
 ## 📦 Toolbox
 
